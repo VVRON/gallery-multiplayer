@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956905174380",
+    "project_id": "tropicalspacedotworld-museum",
+    "storage_bucket": "tropicalspacedotworld-museum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956905174380:android:4ce1a868c186ac509c6f49",
+        "android_client_info": {
+          "package_name": "com.aaronakrong.multiplayergallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZKIt8B9s_0wQvcCeNRjR307voSkcTHNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956905174380:android:63cf60b37421f4799c6f49",
+        "android_client_info": {
+          "package_name": "com.aaronakrong.tropicalspace.world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZKIt8B9s_0wQvcCeNRjR307voSkcTHNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
